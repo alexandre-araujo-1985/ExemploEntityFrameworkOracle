@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploEntityFrameworkOracle", "ExemploEntityFrameworkOracle\ExemploEntityFrameworkOracle.csproj", "{F5CFAEA8-F8F3-4DBB-8657-CD932AE6142D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploEntityFrameworkOracle.Application", "ExemploEntityFrameworkOracle.Application\ExemploEntityFrameworkOracle.Application.csproj", "{9E610155-D90F-4DD3-B1A1-5594800A87D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploEntityFrameworkOracle.Domain", "ExemploEntityFrameworkOracle.Domain\ExemploEntityFrameworkOracle.Domain.csproj", "{3DD0425E-0578-4CD2-8B19-485C86CA3979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploEntityFrameworkOracle.Infra", "ExemploEntityFrameworkOracle.Infra\ExemploEntityFrameworkOracle.Infra.csproj", "{873C461A-AD17-4FD5-85AC-0DE0E029FFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CFAEA8-F8F3-4DBB-8657-CD932AE6142D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CFAEA8-F8F3-4DBB-8657-CD932AE6142D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CFAEA8-F8F3-4DBB-8657-CD932AE6142D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CFAEA8-F8F3-4DBB-8657-CD932AE6142D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E610155-D90F-4DD3-B1A1-5594800A87D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E610155-D90F-4DD3-B1A1-5594800A87D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E610155-D90F-4DD3-B1A1-5594800A87D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E610155-D90F-4DD3-B1A1-5594800A87D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD0425E-0578-4CD2-8B19-485C86CA3979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD0425E-0578-4CD2-8B19-485C86CA3979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD0425E-0578-4CD2-8B19-485C86CA3979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD0425E-0578-4CD2-8B19-485C86CA3979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873C461A-AD17-4FD5-85AC-0DE0E029FFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873C461A-AD17-4FD5-85AC-0DE0E029FFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873C461A-AD17-4FD5-85AC-0DE0E029FFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873C461A-AD17-4FD5-85AC-0DE0E029FFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E1B927D-6AC2-43E4-901E-6A522032B5E7}
+	EndGlobalSection
+EndGlobal
